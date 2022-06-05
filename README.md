@@ -1,1 +1,2 @@
-https://Ankover.github.io/rsschool-cv/cv
+
+https://Ankover.github.io/rsschool-cv/
